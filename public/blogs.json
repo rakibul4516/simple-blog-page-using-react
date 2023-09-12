@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://i.ibb.co/NWkzrqf/1.jpg",
+      "title": "Unique and Interesting Article Title 1 with More than 10 Words",
+      "user_img": "https://i.ibb.co/qp3S9f6/boy1.png",
+      "user_name": "John Doe",
+      "published_date": "2023-09-13",
+      "reading_time": 10,
+      "tags": ["Technology", "Science"]
+    },
+    {
+      "id": 2,
+      "cover_img": "https://i.ibb.co/s5j8L70/2.png",
+      "title": "A Captivating and Lengthy Title for Article 2 That Exceeds 10 Words",
+      "user_img": "https://i.ibb.co/z6cm1NQ/boy2.jpg",
+      "user_name": "Jane Smith",
+      "published_date": "2023-09-14",
+      "reading_time": 8,
+      "tags": ["Travel", "Food"]
+    },
+    {
+      "id": 3,
+      "cover_img": "https://i.ibb.co/4SwZL0v/3.png",
+      "title": "A Unique and Elaborate Article Title 3 with More Than 10 Words in It",
+      "user_img": "https://i.ibb.co/9GM5tDq/girl1.jpg",
+      "user_name": "Alice Johnson",
+      "published_date": "2023-09-15",
+      "reading_time": 15,
+      "tags": ["Health", "Fitness"]
+    },
+    {
+      "id": 4,
+      "cover_img": "https://i.ibb.co/Y8WCD2j/4.jpg",
+      "title": "An Intriguing and Extensive Title for Article Number 4 Exceeding 10 Words",
+      "user_img": "https://i.ibb.co/CMS0p6r/girl2.jpg",
+      "user_name": "Bob Anderson",
+      "published_date": "2023-09-16",
+      "reading_time": 12,
+      "tags": ["Art", "Design"]
+    }
+  ]
