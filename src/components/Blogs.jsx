@@ -9,11 +9,11 @@ function Blogs({bookmarkHandeler,readingTimeHandeler}) {
         fetch('../../public/blogs.json')
         .then(res => res.json())
         .then(data => setBlogs(data))
-    })
+    },[])
 
 
     return (
-        <div className='w-2/3'>
+        <div className='lg:w-2/3 w-full'>
             {
                 blogs.map((blog,idx) =><Blog 
                 key={idx} 

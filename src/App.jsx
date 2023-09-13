@@ -27,7 +27,7 @@ function App() {
         <h1 className='text-4xl font-semibold'>Knowledge Haat</h1>
         <img className='h-14 w-14' src={image} alt="" />
       </div>
-      <div className="flex w-10/12 mx-auto">
+      <div className="flex lg:w-10/12 w-11/12 mx-auto max-sm:flex-col">
         <Blogs bookmarkHandeler = {bookmarkHandeler} readingTimeHandeler={readingTimeHandeler}></Blogs>
         <Bookmarks bookmarkData ={bookmarkData} readingTime={readingTime}></Bookmarks>
       </div>
